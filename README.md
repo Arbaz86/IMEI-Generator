@@ -1,15 +1,8 @@
-# Random IMEI Number Generator
+# React + Vite
 
-This is a simple React application that generates random valid IMEI (International Mobile Equipment Identity) numbers and allows you to copy them to the clipboard.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
+Currently, two official plugins are available:
 
-- Generates random valid IMEI numbers
-- Allows copying the generated IMEI number to the clipboard
-- Easy-to-use interface
-
-## Technologies Used
-
-- `React`
-- `JavaScript`
-- `CSS`
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
